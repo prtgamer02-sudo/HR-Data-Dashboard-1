@@ -1,0 +1,22 @@
+# HR Data Dashboard (Excel)
+
+## Overview
+This project is an HR Analytics Dashboard built in Microsoft Excel.
+
+## Features
+- Employee Count
+- Department-wise Analysis
+- Gender Analysis
+- Salary Analysis
+- Attrition Dashboard
+- Interactive Pivot Tables and Charts
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+
+## Author
+Nikhil Sharma
